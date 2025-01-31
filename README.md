@@ -4,7 +4,7 @@
 
 Heart disease is one of the leading causes of death worldwide. This project aims to classify heart disease using a neural network model. The dataset consists of 11 features and corresponding binary labels. The goal is to train a neural model to correctly predict whether a patient is suffering from heart disease based on given features.
 
-**Important Note:** This is a **from-scratch generic implementation** of a neural network that can handle **any type of CSV data or even images** for classification. It only requires minor modifications in the data loader and `Training.py` to set the input and output dimensions accordingly. Once adjusted, the model is ready for training on various classification tasks, including different datasets and image classification.
+> **Note:** This is a **from-scratch generic implementation** of a neural network that can handle **any type of CSV data or even images** for classification. It only requires minor modifications in the data loader and `Training.py` to set the input and output dimensions accordingly. Once adjusted, the model is ready for training on various classification tasks, including different datasets and image classification.
 
 ---
 
